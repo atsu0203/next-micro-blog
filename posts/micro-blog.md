@@ -1,7 +1,7 @@
 ---
 title: "技術ブログ"
 date: "2022-10-01"
-thumbnail: "/images/micro-blog.jpg"
+thumbnail: "/images/micro-blog.png"
 subtitle: "Nest.jsの学習のため"
 ---
 
