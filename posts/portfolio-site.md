@@ -6,10 +6,10 @@ github: "https://github.com/atsu0203/react-portfolio-site"
 thumbnail: "/images/portfolio-site.png"
 
 ---
-
-Reactの学習のため、ポートフォリオサイトを作成した。
-1ページのシンプルなもの。
-GitHubとAPI通信を行い、プログラミング言語の比重がわかる。
-デプロイは簡易にするため、netlifyで行っている。
+## 概要
+Reactの学習のため、ポートフォリオサイトを作成した。  
+1ページのシンプルなもの。  
+GitHubとAPI通信を行い、プログラミング言語の比重がわかる。  
+デプロイは簡易にするため、netlifyで行っている。  
 
 
