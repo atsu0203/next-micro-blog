@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
           <div className={`${styles.grid}`}>
             {allPostsData.map(({ id,title,subtitle,  url, github, thumbnail }) => (
               <article key={id}>
-                <Link href={url} >
+                <Link href={url} target="_blank">
                   <img
                     src={`${thumbnail}`}
                     className={`${styles.thumbnailImage}`}
@@ -43,7 +43,7 @@ export default function Home({ allPostsData }) {
                 <div className={`${styles.link}`}>
                 <div className={`${styles.title}`}>{title}</div>
                 <Link className={`${styles.linka}`} href={`posts/${id}`} ><FaBookOpen  size={30} color={'#ccc'}/></Link>
-                <Link className={`${styles.linkb}`}href={github}><FaGithub size={30} color={'#ccc'} /></Link>
+                <Link className={`${styles.linkb}`}href={github} target="_blank"><FaGithub size={30} color={'#ccc'} /></Link>
                 </div>
 
                 <div className={`${styles.subtitle}`}>{subtitle}</div>
