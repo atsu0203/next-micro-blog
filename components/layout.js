@@ -5,7 +5,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 
 const name = "Atsu";
-export const siteTitle = "Atsu Blog";
+export const siteTitle = "Atsuポートフォリオ";
 
 function Layout({ children, home }) {
   return (

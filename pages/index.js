@@ -24,9 +24,9 @@ export default function Home({ allPostsData }) {
           <title className={`${styles.head} ${styles.head}`}>{siteTitle}</title>
         </Head>
         <section className={utilStyles.headingMd}>
-          <p>
+          {/* <p>
             Webエンジニア
-          </p>
+          </p> */}
         </section>
 
         <section className={`${styles.head} ${utilStyles.padding1px}`}>
