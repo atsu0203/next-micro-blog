@@ -6,7 +6,7 @@ github: "https://github.com/atsu0203/monzen-search"
 thumbnail: "/images/monzen-search.png"
 ---
 
-##　概要
+## 概要
 【作成中】
 RailsでAPIを作成  
 今までの学習を元に複雑なシステムを作成  

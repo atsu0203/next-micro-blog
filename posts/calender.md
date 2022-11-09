@@ -1,6 +1,6 @@
 ---
 title: "スケジュール帳"
-subtitle: "カレンダーでスケジュール管理ができるサイト。主にReduxの学習。"
+subtitle: "カレンダーでスケジュール管理ができるサイト。主にReduxの学習。※コスト削減のため、APIサーバーを停止し、スケジュールの取得、追加できない場合あり。"
 url: "http://160.251.82.75:8080/"
 github: "https://github.com/atsu0203/react-calender-app"
 thumbnail: "/images/calender.png"
