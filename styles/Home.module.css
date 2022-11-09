@@ -13,12 +13,13 @@
 }
 
 .thumbnailImage {
-  width: 950px;
-  height: 400px;
-  margin-bottom: 20px;
+  width: 360px;
+  height: 230px;
+  margin-bottom: 30px;
   box-shadow: 4px 5px 12px black;
   transition: all 0.3s;
   cursor: pointer;
+  margin: 0 auto;
 }
 
 .thumbnailImage:hover {
@@ -31,6 +32,51 @@
   flex-wrap: wrap;
   max-width: 1200px;
   gap: 40px;
-  margin: 0 auto;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  margin: 10 auto;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.head {
+  color: #555;
+}
+
+
+.link{
+  /* margin-top: 10px; */
+  display: flex;
+  justify-content: space-between;
+  position:  relative;
+}
+
+.linka{
+  padding: 5px;
+  position:  absolute;
+  right:  10px;                /* 右からの位置指定 */
+  top: 10px;  
+}
+
+.linkb{
+  padding: 5px;
+  position:  absolute;
+  right:  50px;                /* 右からの位置指定 */
+  top: 10px;  
+}
+
+.title{
+  padding: 5px;
+  position:  absolute;
+  width: 260px;
+  right:  80px;                /* 右からの位置指定 */
+  top: 10px;  
+  text-align: center;
+
+}
+
+.subtitle{
+  color: #666;
+  padding: 0 auto;
+  margin-left: 10px;
+  margin-top: 50px;
+  top: 10px;  
+  height: 60px;
 }
