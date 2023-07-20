@@ -1,6 +1,6 @@
 ---
 title: "飲食店検索サイト"
-subtitle: "【作成中】RailsとReactで構築。今までの学習を元に飲食店検索サイトを作成中。"
+subtitle: "RailsとReactで構築。今までの学習を元に飲食店検索サイトを作成中。"
 url: "https://monzen-search.netlify.app/"
 github: "https://github.com/atsu0203/monzen-search"
 thumbnail: "/images/monzen-search.png"
