@@ -11,7 +11,6 @@ thumbnail: "/images/monzen-search.png"
 RailsでAPIを作成  
 今までの学習を元に飲食店検索サイトを作成中  
 Netlify  + Herokuでデプロイ
-修正中
 
 
 ## 技術
